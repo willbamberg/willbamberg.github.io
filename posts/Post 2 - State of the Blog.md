@@ -2,6 +2,8 @@
 %Will Bamberg
 %17 March 2017
 
+#State of the Blog
+
 Or "What Am I Even Doing"
 
 I began this blog on what amounts to a whim and a really good mood. In this, my second post, I'd like to generally outline my motivations for this blog, where I want it to go, etc.

@@ -9,9 +9,9 @@
   <meta name="description" content="You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different wa...">
 
   <!-- External libraries -->
-  <link rel="stylesheet" href="./Welcome to Jekyll!_files/font-awesome.min.css">
-  <link rel="stylesheet" href="./Welcome to Jekyll!_files/monokai_sublime.min.css">
-  <link rel="stylesheet" href="./Welcome to Jekyll!_files/lightbox.css">
+  <link rel="stylesheet" href="../template_files/font-awesome.min.css">
+  <link rel="stylesheet" href="../template_files/monokai_sublime.min.css">
+  <link rel="stylesheet" href="../template_files/lightbox.css">
 
   <!-- Favicon and other icons (made with http://www.favicon-generator.org/) -->
   <link rel="shortcut icon" href="http://bencentra.com/centrarium/assets/icons/favicon.ico" type="image/x-icon">
@@ -35,13 +35,13 @@
 	<meta name="theme-color" content="#ffffff">
 
 	<!-- Site styles -->
-  <link rel="stylesheet" href="./Welcome to Jekyll!_files/main.css">
+  <link rel="stylesheet" href="../template_files/main.css">
   <link rel="canonical" href="http://bencentra.com/centrarium//jekyll/2015/04/18/welcome-to-jekyll.html">
   <link rel="alternate" type="application/rss+xml" title="Centrarium" href="http://bencentra.com/centrarium//feed.xml">
-<script type="text/javascript" async="" src="./Welcome to Jekyll!_files/embed.js"></script><link rel="preload" as="style" href="https://c.disquscdn.com/next/embed/styles/lounge.1338080c7d626298e3eb715cb658042e.css"><link rel="preload" as="script" href="https://c.disquscdn.com/next/embed/common.bundle.94805df7d922d8c7efc1170776463a6c.js"><link rel="preload" as="script" href="https://c.disquscdn.com/next/embed/lounge.bundle.049dcbe15518bbbfe775b0e6e75af92a.js"><link rel="preload" as="script" href="https://disqus.com/next/config.js"><style type="text/css">
+<script type="text/javascript" async="" src="../template_files/embed.js"></script><style type="text/css">
 :root .adsbox
-{ display: none !important; }
-:root *[dnsu8mj][hidden] { display: none !important; }</style></head>
+{ display: none !important; }</style><link rel="preload" as="style" href="https://c.disquscdn.com/next/embed/styles/lounge.1338080c7d626298e3eb715cb658042e.css"><link rel="preload" as="script" href="https://c.disquscdn.com/next/embed/common.bundle.94805df7d922d8c7efc1170776463a6c.js"><link rel="preload" as="script" href="https://c.disquscdn.com/next/embed/lounge.bundle.049dcbe15518bbbfe775b0e6e75af92a.js"><link rel="preload" as="script" href="https://disqus.com/next/config.js"><style type="text/css">
+:root *[dqf0d3e][hidden] { display: none !important; }</style></head>
 
 
   <body cz-shortcut-listen="true">
@@ -50,7 +50,7 @@
   <div class="navigation-wrapper">
     <a href="http://bencentra.com/centrarium/" class="logo">
     	
-      <img src="./Welcome to Jekyll!_files/logo.png" alt="Centrarium">
+      <img src="../template_files/logo.png" alt="Centrarium">
       
     </a>
     <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">
@@ -88,113 +88,31 @@
     <div class="page-content">
         <div class="post">
 
-<div class="post-header-container has-cover" style="background-image: url(/centrarium/assets/instacode.png);">
-	<div class="scrim has-cover">
-		<header class="post-header">
-		  <h1 class="title">Welcome to Jekyll!</h1>
-		  <p class="info">by <strong>Ben Centra</strong></p>
-		</header>
-	</div>
-</div>
+
 
 <div class="wrapper">
 
 
 
-<section class="post-meta">
-	<div class="post-date">April 18, 2015</div>
-	<div class="post-categories">
-	in 
-	  
-		<a href="http://bencentra.com/centrarium/category/jekyll">Jekyll</a>
-	  
 	
-	</div>
-</section>	
 
 <article class="post-content">
-<div id='blog-post'></div>
-
+<div id="blog-post"></div>
 </article>
 
 
 
-<section class="tags">
-	<strong>Tags:</strong> <a href="http://bencentra.com/centrarium/tag/jekyll">jekyll</a>,&nbsp;<a href="http://bencentra.com/centrarium/tag/welcome">welcome</a>
-</section>
 
 
 
-<section class="rss">
-	<p class="rss-subscribe text"><strong>Subscribe <a href="http://bencentra.com/centrarium/feed.xml">via RSS</a></strong></p>
-</section>
-
-<section class="share">
-  <span>Share: </span>
-  
-    
-      <a href="http://twitter.com/share?text=Welcome+to+Jekyll%21&amp;url=http://bencentra.com/jekyll/2015/04/18/welcome-to-jekyll.html" onclick="window.open(this.href, &#39;twitter-share&#39;, &#39;width=550,height=255&#39;);return false;">
-      	<i class="fa fa-twitter-square fa-lg"></i>
-      </a>
-    
-  
-    
-      <a href="http://www.facebook.com/sharer.php?t=Welcome+to+Jekyll%21&amp;u=http://bencentra.com/jekyll/2015/04/18/welcome-to-jekyll.html" onclick="window.open(this.href, &#39;facebook-share&#39;, &#39;width=550,height=255&#39;);return false;">
-      	<i class="fa fa-facebook-square fa-lg"></i>
-      </a>
-    
-  
-    
-  
-    
-      <a href="http://www.linkedin.com/shareArticle?mini=trueWelcome+to+Jekyll%21&amp;url=http://bencentra.com/jekyll/2015/04/18/welcome-to-jekyll.html" onclick="window.open(this.href, &#39;linkedin-share&#39;, &#39;width=550,height=255&#39;);return false;">
-      	<i class="fa fa-linkedin-square fa-lg"></i>
-      </a>
-    
-  
-    
-      <a href="http://plus.google.com/share?title=Welcome+to+Jekyll%21&amp;url=http://bencentra.com/jekyll/2015/04/18/welcome-to-jekyll.html" onclick="window.open(this.href, &#39;google-plus-share&#39;, &#39;width=550,height=255&#39;);return false;">
-      	<i class="fa fa-google-plus-square fa-lg"></i>
-      </a>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-</section>
 
 
 
-<section class="disqus">
-  <div id="disqus_thread"><iframe id="dsq-app1" name="dsq-app1" allowtransparency="true" frameborder="0" scrolling="no" tabindex="0" title="Disqus" width="100%" src="./Welcome to Jekyll!_files/saved_resource.html" style="width: 1px !important; min-width: 100% !important; border: none !important; overflow: hidden !important; height: 545px !important;" horizontalscrolling="no" verticalscrolling="no"></iframe></div>
-  <script type="text/javascript">
-    var disqus_shortname = 'bencentra';
 
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-  </script>
-  <noscript>Please enable JavaScript to view the &lt;a href="http://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;</noscript>
-  
-</section>
+
+
+
+
 
 
 
@@ -203,119 +121,12 @@
 
     </div>
 
-    <footer class="site-footer">
-
-  <div class="wrapper">
-
-    <h3 class="footer-heading">Centrarium</h3>
-
-    <div class="site-navigation">
-    	
-    	<p><strong>Site Map</strong></p>
-      <ul class="pages">
-        
-        
-          <li class="nav-link"><a href="http://bencentra.com/centrarium/about/">About</a>
-        
-        
-        
-        
-        
-        
-        
-        
-        
-          </li><li class="nav-link"><a href="http://bencentra.com/centrarium/posts/">Posts</a>
-        
-        
-        
-          </li><li class="nav-link"><a href="http://bencentra.com/centrarium/typography/">Typography</a>
-        
-        
-        
-        
-      </li></ul>
-    </div>
-
-    <div class="site-contact">
-
-    	<p><strong>Contact</strong>
-      </p><ul class="social-media-list">
-      	<li>
-      		<a href="mailto:blcentra@gmail.com">
-	      		<i class="fa fa-envelope-o"></i>
-	      		<span class="username">blcentra@gmail.com</span>
-      		</a>
-      	</li>
-
-      	
-      	
-      	<li>
-          <a href="https://twitter.com/TheBenCentra" title="Follow me on Twitter">
-            <i class="fa fa-twitter"></i>
-            <span class="username">@TheBenCentra</span>
-          </a>
-        </li>
-      	
-      	
-      	
-      	
-      	
-      	<li>
-          <a href="https://github.com/bencentra" title="Fork me on GitHub">
-            <i class="fa fa-github"></i>
-            <span class="username">bencentra</span>
-          </a>
-        </li>
-      	
-      	
-      	
-      	<li>
-          <a href="https://www.linkedin.com/pub/ben-centra/47/769/60a" title="Connect with me on LinkedIn">
-            <i class="fa fa-linkedin"></i>
-            <span class="username">Ben Centra</span>
-          </a>
-        </li>
-      	
-      	
-      	
-      	
-      	
-      	
-      	
-      	
-      	
-      	
-      	
-      	
-      	
-      	
-      	
-      	
-      	
-      	
-      	
-      	
-      	
-      	
-
-      </ul>
-    </div>
-
-    <div class="site-signature">
-    	<p class="rss-subscribe text"><strong>Subscribe <a href="http://bencentra.com/centrarium/feed.xml">via RSS</a></strong></p>
-      <p class="text">A simple yet classy theme for your Jekyll website or blog.
-</p>
-    </div>
-
-  </div>
-
-</footer>
+    
 
 <!-- Scripts -->
-<script src="./Welcome to Jekyll!_files/jquery-1.11.2.min.js"></script>
-<script src="./Welcome to Jekyll!_files/highlight.min.js"></script>
-<script src="./Welcome to Jekyll!_files/lightbox.min.js"></script>
+<script src="../template_files/jquery-1.11.2.min.js"></script>
+<script src="../template_files/highlight.min.js"></script>
+<script src="../template_files/lightbox.min.js"></script>
 <script>
 
 $(document).ready(function() {
@@ -346,4 +157,4 @@ $(document).ready(function() {
   
 
 
-<div id="lightboxOverlay" class="lightboxOverlay" style="display: none;"></div><div id="lightbox" class="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image" src="http://bencentra.com/centrarium/jekyll/2015/04/18/welcome-to-jekyll.html"><div class="lb-nav"><a class="lb-prev" href="http://bencentra.com/centrarium/jekyll/2015/04/18/welcome-to-jekyll.html"></a><a class="lb-next" href="http://bencentra.com/centrarium/jekyll/2015/04/18/welcome-to-jekyll.html"></a></div><div class="lb-loader"><a class="lb-cancel"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close"></a></div></div></div></div><iframe style="display: none;" src="./Welcome to Jekyll!_files/saved_resource(1).html"></iframe></body></html>
+</body></html>

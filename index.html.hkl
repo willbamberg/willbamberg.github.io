@@ -80,27 +80,13 @@
     </a>
     <nav role="navigation">
       <ul id="js-navigation-menu" class="navigation-menu">
-      	
-          
+        
           <li class="nav-link"><a href="http://bencentra.com/centrarium/about/">About</a>
           
-        
-          
-        
-          
-        
-          
-        
-          
           </li><li class="nav-link"><a href="http://bencentra.com/centrarium/posts/">Posts</a>
-          
-        
-          
+
           </li><li class="nav-link"><a href="http://bencentra.com/centrarium/typography/">Typography</a>
           
-        
-          
-        
       </li></ul>
     </nav>
   </div>
