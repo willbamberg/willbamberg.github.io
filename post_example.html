@@ -3,24 +3,7 @@
 <html><head>
 
   <style>
-    .blog-posts{
-      
-    }
-    .blog-post {
-      font-size: 1.728em;
-      list-style-type: none;
-      margin: 3%;
-      text-align:center;
-    }
-    .post-date{
-      /*display:none;*/
-      font-size:.65em;
-      font-style: italic;
-      color: gray;
-    }
-    a{
-      cursor: pointer;
-    }
+    font-size: 1.728em;
   </style>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   
@@ -142,25 +125,7 @@
   </li> -->
   
   
-  <ul id="blog-posts">
-    <li class="blog-post">
-        <a class="post-link" href="posts/Post 2 - State of the Blog.html">
-            State of the Blog
-        </a>
-        <div class="post-date">
-            17 March 2017
-        </div>
-    </li>
-    <li class="blog-post">
-        <a class="post-link" href="posts/Post 1 - Life on a mountain.html">
-            Life on a Mountain
-        </a>
-        <div class="post-date">
-            9 March 2017
-        </div>
-    </li>
-</ul>
-
+  <ul id='blog-posts'></ul>
   
   
   
@@ -209,12 +174,15 @@ $(document).ready(function() {
     });
   });
 
-  $(".blog-post").append("<hr />");
-
 
 });
 
 </script>
 
 
-</body></html>
+
+
+  
+
+
+<div id="lightboxOverlay" class="lightboxOverlay" style="display: none;"></div><div id="lightbox" class="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image" src="http://bencentra.com/centrarium/"><div class="lb-nav"><a class="lb-prev" href="http://bencentra.com/centrarium/"></a><a class="lb-next" href="http://bencentra.com/centrarium/"></a></div><div class="lb-loader"><a class="lb-cancel"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close"></a></div></div></div></div></body></html>
